@@ -33,12 +33,13 @@ body{
   border-top: 8px rgb(6, 213, 245) solid ;
 }
 .about-title:hover{
-  transform: scale(1.05) translateX(-15px)
+  transform: scale(1.05) translateX(30px)
 }
 .project-link{
   text-decoration: none;
   color: black;
-  line-height: 80px;
+  line-height: 50px;
+  font-size: small;
 }
 .project-link:hover{
   color: blue;
